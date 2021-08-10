@@ -9,7 +9,7 @@ import wikipedia
 querystring=""
 url = "https://genius.p.rapidapi.com/search"
 headers = {
-    'x-rapidapi-key': "c82d01a24fmsh6fbca4f9e9629bbp10beddjsn379d4221dc0e",
+    'x-rapidapi-key': "(your API key)",
     'x-rapidapi-host': "genius.p.rapidapi.com"
     }
 
